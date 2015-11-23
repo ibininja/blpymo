@@ -1,0 +1,2 @@
+the naming is important to flask. using the default "templates" naming would not require us to makes further changes. Flask would understand it quickly.
+- So this folder would containt the Html files.
